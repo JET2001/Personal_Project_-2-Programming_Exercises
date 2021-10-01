@@ -2,7 +2,7 @@
 Project Duration: 28 May 2021 - Present
 
 ## Project Description
-Currently I am serving National Service, and a good friend in army asked me to teach him programming. He knew nothing about programming, and hence I took it upon myself to teach him programming from scratch. At that point of agreeing to teach him, my Coursera subscription just ended and I needed a way to sustain my programming habit, and this became one.
+A good friend asked me to teach him programming. He knew nothing about programming, and hence I took it upon myself to teach him programming from scratch. At that point of agreeing to teach him, my Coursera subscription just ended and I needed a way to sustain my programming habit, and this became one.
 
 
 I decided to draw from the lecturers which I loved from Coursera and to emulate their teaching style and the quality of the programming assignments that they provided, and taught him in a manner that emulated them. One of the most painful courses on Coursera was the specialisation _Data Structures and Algorithms_, which really forced me to get a good grasp of my programming concepts and fundamentals. I hated doing that course, but I did feel it was a rite of passage of becoming a more competent programmer. I also enjoyed the enthusiasm of <b> Wade Fagen Ulmschneider</b> from _Accelerated Computer Science Fundamentals Specialisation_, and I decided to draw from his teaching style when giving lectures. 
