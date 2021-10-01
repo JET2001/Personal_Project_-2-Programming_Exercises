@@ -1,4 +1,4 @@
-# Introductory Programming in C
+# Programming Exercises
 Project Duration: 28 May 2021 - Present
 
 ## Project Description
