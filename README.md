@@ -18,6 +18,6 @@ I will be uploading any of the assignments that I create for these modules here.
 - Week 4: Format Specifiers and Standard IO, Type Casting in C, Using Header Files in C
 
 #### Module #2A - Programming in C
-- Week 1: Arrays, Pointers, Relation between Arrays and Pointers, Strings
-- Week 2: File IO, Using User Defined Header Files, Using and creating Makefiles
+- Week 5: Arrays, Pointers, Relation between Arrays and Pointers, Strings
+- Week 6: File IO, Using User Defined Header Files, Using and creating Makefiles
 
