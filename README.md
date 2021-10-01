@@ -10,8 +10,6 @@ I decided to draw from the lecturers which I loved from Coursera and to emulate 
 
 I will be uploading any of the assignments that I create for these modules here.
 ### Course Outline
-Module #1: Introductory Programming in C
-Module #2A: Programming in C
 #### Module #1 - Introductory Programming in C
 - Week 0: Basic IO Functions in C
 - Week 1: Data Types, Variable Declaration, Assignment, Initialisation, Operators in C
