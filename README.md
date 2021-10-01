@@ -12,16 +12,14 @@ I will be uploading any of the assignments that I create for these modules here.
 ### Course Outline
 Module #1: Introductory Programming in C
 Module #2A: Programming in C
-### Module #1 - Introductory Programming in C
-#### Scope:
+#### Module #1 - Introductory Programming in C
 - Week 0: Basic IO Functions in C
 - Week 1: Data Types, Variable Declaration, Assignment, Initialisation, Operators in C
 - Week 2: Decision Making Statements, Iteration and Loops in C
 - Week 3: User Defined Functions in C, Variable Scope
 - Week 4: Format Specifiers and Standard IO, Type Casting in C, Using Header Files in C
 
-### Module #2A - Programming in C
-#### Scope:
+#### Module #2A - Programming in C
 - Week 1: Arrays, Pointers, Relation between Arrays and Pointers, Strings
 - Week 2: File IO, Using User Defined Header Files, Using and creating Makefiles
 
